@@ -1,2 +1,2 @@
-# Proyect-Django
-Proyecto de portfolio en django
+# web_personal
+Proyecto Django 226
